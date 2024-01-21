@@ -1,7 +1,7 @@
 # Unc-SOD: An uncertainty Learning Framework for Small Object Detection
 
 ## :loudspeaker: Introduction
-This is the official repository of our paper titled **Unc-SOD: An uncertainty Learning Framework for Small Object Detection**, and the full implementation will be available after the perr-review.
+This is the official repository of our paper titled **Unc-SOD: An uncertainty Learning Framework for Small Object Detection**, and the full implementation will be available after the peer-review.
 
 ## :ferris_wheel: Dependencies
  - CUDA 11.3
